@@ -1,0 +1,24 @@
+{
+  "kots": {
+    "kot1": {
+      "books": ["كتاب الرياضيات 1", "كتاب الفيزياء 1"],
+      "images": ["images/math1.jpg", "images/physics1.jpg"],
+      "englishWords": ["apple", "book", "pen"]
+    },
+    "kot2": {
+      "books": ["كتاب الكيمياء 2", "كتاب الأحياء 2"],
+      "images": ["images/chem2.jpg", "images/bio2.jpg"],
+      "englishWords": ["desk", "computer", "notebook"]
+    },
+    "kot3": {
+      "books": ["كتاب الطب 3", "كتاب الصيدلة 3"],
+      "images": ["images/med3.jpg", "images/pharma3.jpg"],
+      "englishWords": ["doctor", "hospital", "nurse"]
+    },
+    "kot4": {
+      "books": ["كتاب الهندسة 4", "كتاب البرمجة 4"],
+      "images": ["images/eng4.jpg", "images/code4.jpg"],
+      "englishWords": ["engineer", "program", "project"]
+    }
+  }
+}
